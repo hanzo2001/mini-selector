@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "charset": "utf8",
+        "target": "es5",
+        "module" : "amd",
+        "removeComments": true,
+        "outDir": "./www/scripts/",
+        "sourceMap": false,
+        "watch": true
+    },
+    "files": [
+        "./sources/config.ts",
+        "./sources/app.ts"
+    ]
+}

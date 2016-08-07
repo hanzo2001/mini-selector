@@ -1,0 +1,16 @@
+{
+  "name": "selector",
+  "version": "1.0.0",
+  "description": "A jQuery-like minimal selector for DGPad",
+  "main": "./www/index.html",
+  "scripts": {
+  },
+  "keywords": [
+    "DOM-wrapper", "event-manager"
+  ],
+  "author": "Santiago Acosta",
+  "license": "Apache-2.0",
+	"dependencies": {
+		"requirejs": "^2.2.0"
+	}
+}
